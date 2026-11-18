@@ -1,10 +1,12 @@
 from typing import List
 
 from app.platforms.base import Platform
+from app.platforms.blogger import Blogger
 from app.platforms.bluesky import Bluesky
 from app.platforms.devto import DevTo
 from app.platforms.mastodon import Mastodon
+from app.platforms.telegraph import Telegraph
 
 
 def get_platforms() -> List[Platform]:
-    return [Mastodon(), Bluesky(), DevTo()]
+    return [Mastodon(), Bluesky(), DevTo(), Telegraph(), Blogger()]
