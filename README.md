@@ -139,3 +139,6 @@ Platform adapter tests use mocked HTTP responses and do not publish to real acco
 
 <img width="1792" height="1005" alt="image" src="https://github.com/user-attachments/assets/fdd64589-be52-42ed-8838-61c58558c650" />
 
+<img width="1792" height="1005" alt="image" src="https://github.com/user-attachments/assets/db79f965-fa99-4424-b230-1da5e317ec66" />
+
+
