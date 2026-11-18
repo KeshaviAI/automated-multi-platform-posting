@@ -136,3 +136,6 @@ python -m pytest -q
 ```
 
 Platform adapter tests use mocked HTTP responses and do not publish to real accounts. For live testing, use accounts and credentials you are authorized to use.
+
+<img width="1792" height="1005" alt="image" src="https://github.com/user-attachments/assets/fdd64589-be52-42ed-8838-61c58558c650" />
+
